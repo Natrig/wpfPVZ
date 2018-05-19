@@ -1,0 +1,14 @@
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\bin\Debug\WPFPlantsVSZombie.exe.config
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\bin\Debug\WPFPlantsVSZombie.exe
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\bin\Debug\WPFPlantsVSZombie.pdb
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\WPFPlantsVSZombie.csprojResolveAssemblyReference.cache
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\MainWindow.g.cs
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\App.g.cs
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\WPFPlantsVSZombie_MarkupCompile.cache
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\WPFPlantsVSZombie_MarkupCompile.lref
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\MainWindow.baml
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\WPFPlantsVSZombie.g.resources
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\WPFPlantsVSZombie.Properties.Resources.resources
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\WPFPlantsVSZombie.csproj.GenerateResource.Cache
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\WPFPlantsVSZombie.exe
+D:\ProjectMVS\WPFPlantsVSZombie\WPFPlantsVSZombie\obj\Debug\WPFPlantsVSZombie.pdb
